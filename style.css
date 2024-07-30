@@ -4,23 +4,27 @@
 }
 header{
 
-   background-color: #808cce;
-   color: rgb(138, 0, 0);
+   background-color: #010101;
+   color: rgb(255, 255, 255);
    display: flex;
    justify-content: space-around;
    align-items: center;
    padding: 24px 0;
 }
 
-
-.container-titulo {
-   font-size: 40px;    
-   font-weight: 700;
-   
-   }
-
-
 .container-texto{
    font-size:10px;
    font-weight:700;
+   text-align: center;
+}
+
+
+.container-titulo{
+   padding: 100px 0;
+   font-size: 100px;
+   text-align: center ;
+}
+.container-imagem{
+   width: 120px;
+   text-align: center ;
 }
